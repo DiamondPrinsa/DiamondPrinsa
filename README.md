@@ -2,7 +2,7 @@
 <h3 align="center">A Eager Learner Machine Learning, Software Developer, Backend Developer, Database, and DevOps</h3><hr>
 
 ### 💫 About Me:
-🔭 I’m currently working on RSUD dr. H. M. Rabain<br>🌱 I’m currently learning Backend Developer and Machine Learning<br>👨‍💻 All of my projects are available at Kaggle and GitHub<br>💬 Ask me about Backend Developer, Database, and Machine Learning<br>📫 How to reach me muhammadrifqiamirp20@gmail.com<br>⚡ Fun fact I'm a proud GGMU supporter
+🔭 I’m currently working on RSUD dr. H. Mohamad Rabain<br>🌱 I’m currently learning Backend Developer and Machine Learning<br>👨‍💻 All of my projects are available at Kaggle and GitHub<br>💬 Ask me about Backend Developer, Database, and Machine Learning<br>📫 How to reach me muhammadrifqiamirp20@gmail.com<br>⚡ Fun fact I'm a proud GGMU supporter
 <hr>
 
 
